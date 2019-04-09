@@ -1,0 +1,6 @@
+Fox
+Monkey
+Reptile
+Crane
+Mammal
+
